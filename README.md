@@ -1,5 +1,5 @@
 # dnn-voice-changer
-voice changer with DNN &amp; GAN
+voice changer with DNN &amp; GAN on Keras
 
 I have just made a simple voice change with with DNN &amp; GAN. Although the quality of changing voices is bad, It may be easy to understand.
 
